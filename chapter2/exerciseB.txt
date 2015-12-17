@@ -1,0 +1,11 @@
+BBC, valid
+Groovy, valid
+y2k, valid
+Y2K, valid
+old, valid
+new, invalid - is a keyword
+3GL, invalid - starts with number
+a.out, invalid - contains a period
+first-choice, invalid - contains a hyphen
+2nd_choice, invalid - starts with number
+third_choice valid
